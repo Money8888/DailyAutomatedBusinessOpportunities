@@ -3,7 +3,7 @@
 > 每天扫描全网公开信息，筛选出适合个人/小团队低成本落地的自动化商机点子，整理成「一句话概述 + 代码自动化机制 + 合法性 + 迭代方向」日报并自动发布。今日的点子，明天的机会。
 
 [![每日更新](https://img.shields.io/badge/更新频率-每日-brightgreen)](https://github.com/Money8888/DailyAutomatedBusinessOpportunities)
-[![最新日报](https://img.shields.io/badge/最新-2026--08--06-blue)](https://github.com/Money8888/DailyAutomatedBusinessOpportunities/tree/main/markdown)
+[![最新日报](https://img.shields.io/badge/最新-2026--08--07-blue)](https://github.com/Money8888/DailyAutomatedBusinessOpportunities/tree/main/markdown)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Money8888/DailyAutomatedBusinessOpportunities?style=social)](https://github.com/Money8888/DailyAutomatedBusinessOpportunities)
 
@@ -84,7 +84,7 @@
 - 日报内容会**同步生成 Markdown 与网页版**并上传到本仓库，保证读者拿到的始终是当天最新版本。
 - 点子的筛选标准逐日强化：**只有通过"合法性 + 可自动化 + 低运营 + 可迭代"综合评估**的方向才会进入最终排名，未通过的会被明确列为淘汰清单并说明原因。
 
-> 📅 当前最新日报：**2026-08-06** · 每日更新中
+> 📅 当前最新日报：**2026-08-07** · 每日更新中
 
 ---
 
